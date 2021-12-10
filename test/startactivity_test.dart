@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:startactivity/startactivity.dart';
+import 'package:startactivity_gm/startactivity_gm.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('startactivity');

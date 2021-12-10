@@ -11,4 +11,8 @@ class Startactivity {
     final String? version = await _channel.invokeMethod('getPlatformVersion');
     return version;
   }
+
+  static Future<void> get startNewActivity async {
+    await _channel.invokeMethod('startactivityfromplugin');
+  }
 }

@@ -1,7 +1,7 @@
-name: startactivity
+name: startactivity_gm
 description: A new Flutter project to start new activity from a plugin
 version: 0.0.1
-homepage:
+homepage: https://github.com/UnilGandhi/flutteractivityplugin
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

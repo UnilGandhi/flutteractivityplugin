@@ -121,7 +121,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.10.0"
-  startactivity:
+  startactivity_gm:
     dependency: "direct main"
     description:
       path: ".."
